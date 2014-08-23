@@ -8,5 +8,5 @@ Projekt oparty na Meteorze.
 
 
 
-- Portal pozwala na dzielenie sie dobrymi filmikami na youtubie.
+- Portal pozwala na dzielenie sie filmikami na youtubie.
 
