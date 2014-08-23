@@ -1,6 +1,6 @@
 var assert = require('assert');
 
-suite('Main', function() {
+suite('test', function() {
 
 	test('wrzuc wideo - klient', function(done, client) {
     client.eval(function() {
